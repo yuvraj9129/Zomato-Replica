@@ -4,7 +4,7 @@
 
 #### Web hosting
 
-The project has been hosted on Netlifly : [Click Here](https://csb-62kn3.netlify.app/)
+The project has been hosted on Netlifly : [Click Here](https://zomatofoodieclone.netlify.app/)
 
 #### Features
 
